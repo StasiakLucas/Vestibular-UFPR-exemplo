@@ -1,0 +1,20 @@
+body{
+    background-color: orange;
+}
+
+.imagem-livro{
+    width: 400px;
+}
+
+.paragrafos-sinopse{
+    text-align: justify;
+}
+
+.centralizar-imagem{
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    color: purple;
+}
